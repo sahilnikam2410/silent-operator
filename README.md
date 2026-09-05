@@ -114,3 +114,10 @@ third-party system. No live targets, no credential material, no real hostnames.
 ## Rebuild it
 
 <!-- TODO: setup steps, or a link to your lab-build video -->
+
+---
+
+## Part of a portfolio
+
+The portfolio ties every project to the MITRE ATT&CK technique it covers:
+**https://hackwithsahil.vercel.app**
