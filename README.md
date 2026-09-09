@@ -169,8 +169,17 @@ any result about it means anything.
 Then run the loop in [Method](#method): map the technique, execute it, hunt
 it, and write the rule if nothing fired.
 
-<!-- TODO (Sahil): exact versions and the Sysmon config used, so this is
-     reproducible rather than merely followable. -->
+**Versions and the Sysmon configuration are not recorded for this lab.** It
+has been decommissioned and the config did not survive it, so these steps are
+followable rather than reproducible — a reader can rebuild the same shape, not
+the same environment.
+
+A separate SOC lab of mine ran Sysmon 15.x with a SwiftOnSecurity-derived
+configuration. That is deliberately not copied in here: it was a different
+environment with a different collector, and transferring its details would
+turn a gap into a quiet fabrication. If your own build needs a starting point,
+that configuration is a good public one — but it is a recommendation, not a
+record of what ran here.
 
 ---
 
